@@ -48,7 +48,7 @@ PI = 3.14
 print(PI)
 PI = 34
 print(PI)
-# Python doesnot have official constant mechanism. However constant is denoted by defining variable name is uppercase
+# Python doesn't have official constant mechanism. However constant is denoted by defining variable name is uppercase
 
 
 
